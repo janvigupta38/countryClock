@@ -1,0 +1,52 @@
+body{
+   background-image: url("images.jpg");
+   background-size: cover;
+} 
+.jumbotron {
+   margin-left: 350px;
+   margin-top: 150px;
+   height:350px;
+   width: 700px;
+   padding: 2px 1px;
+   margin-bottom: 2rem;
+   background-color: #e9ecef;
+   border-radius: .3rem;
+   padding-left: 20px;
+   font-family: Roboto,Arial;
+}
+.div{
+   display: block;
+}
+.navbar{
+   background: #457ba4;
+   display: block;
+   height: 70px;
+   width: 100%;  
+}
+label.Logo{
+   color: white;
+   font-size: 35px;
+   line-height: 80px;
+   font-weight: bold;
+   padding: 0 60px;
+}
+
+.btn{
+   height: 40px;
+   width: 100px;
+   margin-top: 20px;
+   background-color: gray;
+   color: black;
+   cursor: pointer;
+
+}
+.search-bar{
+   height: 30px;
+   width: 150px;
+   
+}
+.search-bar2{
+   margin-left: 30px;
+   height: 30px;
+   width: 150px;
+}
